@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3 because all HackerRank Python pre-work is configured for Python 3 only.
 
 ### Q2. Which Python Version Installed   
 
