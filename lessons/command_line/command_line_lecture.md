@@ -148,6 +148,8 @@ Nice.
 > Let's save the output of the `curl` command to a file called `data.txt`. How
 would we do that?
 
+> Simply add '> data.txt' to the end of the curl command provided above.
+
 Now that we have the data file, let's learn how to manipulate files.
 
 ### Copying, Moving, and Removing Files
@@ -194,6 +196,7 @@ ls -lh
 ```
 
 > What changed?
+> The units used to specify files sizes.
 
 If instead copying we just want to change the name of a file, we can do:
 
