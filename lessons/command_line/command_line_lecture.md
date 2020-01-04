@@ -70,7 +70,7 @@ directory.
 
 > Question: How could we make sure that we moved?
 
-We can give the command 'pwd' to print the working directory.
+> Answer: We can give the command 'pwd' to print the working directory.
 
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
