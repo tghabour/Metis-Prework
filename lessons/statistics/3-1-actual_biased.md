@@ -27,7 +27,10 @@ biased_pmf = BiasPmf(unbiased_pmf, label='biased')
 #thinkplot.PrePlot(2)
 tp.Pmfs([unbiased_pmf, biased_pmf])
 tp.Config(xlabel='NUMKDHH', ylabel='PMF')
+```
 
+
+```python
 print(unbiased_pmf.Mean())
 print(biased_pmf.Mean())
 ````
