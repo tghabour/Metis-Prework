@@ -17,6 +17,6 @@ firsts = live[live.birthord == 1]['totalwgt_lb']
 others = live[live.birthord != 1]['totalwgt_lb'] 
 
 ts2.CohenEffectSize(firsts, others)
-'''
+```
 
 -0.088672927072602
