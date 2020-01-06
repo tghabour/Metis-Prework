@@ -18,5 +18,6 @@ others = live[live.birthord != 1]['totalwgt_lb']
 
 '''python
 ts2.CohenEffectSize(firsts, others)
+'''
 
 -0.088672927072602
