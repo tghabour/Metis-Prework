@@ -16,7 +16,6 @@ live = preg[preg.outcome == 1]
 firsts = live[live.birthord == 1]['totalwgt_lb'] 
 others = live[live.birthord != 1]['totalwgt_lb'] 
 
-'''python
 ts2.CohenEffectSize(firsts, others)
 '''
 
